@@ -3,17 +3,18 @@
 👋 Hi, I'm Shreenidhi!<br>
 🚀 Aspiring Full-Stack Developer | Passionate Coder | DSA Enthusiast
 
-I'm a beginner in the world of coding, currently learning Full-Stack Web Development and Data Structures & Algorithms (DSA) to build scalable and efficient applications.
+I'm a beginner in the world of coding, currently learning Full-Stack Web Development and Data Structures & Algorithms (DSA) to build scalable and efficient applications.<br>
 
 🌟 Skills & Technologies:
 Frontend: HTML, CSS, JavaScript
 Backend: (Planning to learn Node.js, Express.js, etc.)
 Programming Languages: C
-Currently Learning: DSA, Full-Stack Development
+Currently Learning: DSA, Full-Stack Development<br>
 📌 My Goals:
 Master MERN Stack (MongoDB, Express, React, Node.js)
 Improve problem-solving skills with DSA
 Contribute to open-source projects
+<br>
 📫 Let's Connect!
 Feel free to check out my projects and collaborate! 🚀<br>
 
