@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Shreenidhi!
+<br>
+👋 Hi, I'm Shreenidhi!<br>
 🚀 Aspiring Full-Stack Developer | Passionate Coder | DSA Enthusiast
 
 I'm a beginner in the world of coding, currently learning Full-Stack Web Development and Data Structures & Algorithms (DSA) to build scalable and efficient applications.
